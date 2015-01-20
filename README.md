@@ -15,6 +15,8 @@ sudo apt-get install mysql-workbench
 sudo apt-get install vim
 
 #한영문제
+#http://zapary.blogspot.kr/2014/10/ubuntu-1410-ibus-hangul-issue.html
+
 sudo apt-get install ibus-gtk2
 
 #chrome
